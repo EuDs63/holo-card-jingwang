@@ -22,5 +22,11 @@
     "title": "佩利",
     "subtitle": "PELI",
     "path": "./cards/peli/card-config.json"
+  },
+  {
+    "id": "fuyunjian",
+    "title": "抚云间",
+    "subtitle": "FU YUN JIAN",
+    "path": "./cards/fuyunjian/card-config.json"
   }
 ]

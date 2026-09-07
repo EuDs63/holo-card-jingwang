@@ -1,4 +1,4 @@
-const DEFAULT_CARD='peli';
+const DEFAULT_CARD='fuyunjian';
 let cardsCatalog=[];
 let currentCardId=DEFAULT_CARD;
 let configBase='./';
