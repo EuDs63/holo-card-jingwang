@@ -1,0 +1,29 @@
+{
+  "title": "百变怪",
+  "subtitle": "DITTO",
+  "technique": "变身",
+  "tagline": "软萌史莱姆 · 同人典藏",
+  "edition": "132 / 151",
+  "collection": "同人全息典藏",
+  "description": "粉紫软萌百变怪闪卡（粉丝向同人，非官方）",
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.png",
+    "lineart": "./assets/lineart.png",
+    "model": "./assets/card.glb"
+  },
+  "parameters": {
+    "subjectScale": 1.25,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 0.7
+  },
+  "safeArea": {
+    "scale": 1.12,
+    "offset": [
+      -0.06,
+      -0.085
+    ]
+  }
+}

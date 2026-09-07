@@ -6,7 +6,6 @@
   "edition": "001 / 001",
   "collection": "个人全息典藏",
   "description": "根据用户上传肖像生成的暖金全息闪卡",
-  "font": "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
   "assets": {
     "subject": "./assets/subject.png",
     "background": "./assets/background.png",
