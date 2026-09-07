@@ -16,5 +16,11 @@
     "title": "静望",
     "subtitle": "SOFT GLOW",
     "path": "./cards/jingwang/card-config.json"
+  },
+  {
+    "id": "peli",
+    "title": "佩利",
+    "subtitle": "PELI",
+    "path": "./cards/peli/card-config.json"
   }
 ]

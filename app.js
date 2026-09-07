@@ -1,4 +1,4 @@
-const DEFAULT_CARD='aoki-hina';
+const DEFAULT_CARD='peli';
 let cardsCatalog=[];
 let currentCardId=DEFAULT_CARD;
 let configBase='./';
