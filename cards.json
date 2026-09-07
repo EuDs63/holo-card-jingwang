@@ -1,4 +1,20 @@
 [
-  {"id": "ditto", "title": "百变怪", "subtitle": "DITTO", "path": "./cards/ditto/card-config.json"},
-  {"id": "jingwang", "title": "静望", "subtitle": "SOFT GLOW", "path": "./cards/jingwang/card-config.json"}
+  {
+    "id": "aoki-hina",
+    "title": "青木阳菜",
+    "subtitle": "AOKI HINA",
+    "path": "./cards/aoki-hina/card-config.json"
+  },
+  {
+    "id": "ditto",
+    "title": "百变怪",
+    "subtitle": "DITTO",
+    "path": "./cards/ditto/card-config.json"
+  },
+  {
+    "id": "jingwang",
+    "title": "静望",
+    "subtitle": "SOFT GLOW",
+    "path": "./cards/jingwang/card-config.json"
+  }
 ]

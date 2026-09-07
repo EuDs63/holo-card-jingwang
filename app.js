@@ -1,4 +1,4 @@
-const DEFAULT_CARD='ditto';
+const DEFAULT_CARD='aoki-hina';
 let cardsCatalog=[];
 let currentCardId=DEFAULT_CARD;
 let configBase='./';

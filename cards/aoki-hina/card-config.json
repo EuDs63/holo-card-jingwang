@@ -1,0 +1,29 @@
+{
+  "title": "青木阳菜",
+  "subtitle": "AOKI HINA",
+  "technique": "阳菜",
+  "tagline": "粉银星芒 · 同人典藏",
+  "edition": "001 / 001",
+  "collection": "同人全息典藏",
+  "description": "根据上传自拍生成的青木阳菜闪卡（粉丝向同人，非官方）",
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.png",
+    "lineart": "./assets/lineart.png",
+    "model": "./assets/card.glb"
+  },
+  "parameters": {
+    "subjectScale": 1.22,
+    "subjectDepth": 0.38,
+    "backgroundDepth": -0.25,
+    "foil": 0.62
+  },
+  "safeArea": {
+    "scale": 1.12,
+    "offset": [
+      -0.06,
+      -0.085
+    ]
+  }
+}
